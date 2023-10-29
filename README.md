@@ -1,2 +1,2 @@
-# Supply-Chain-Project-
+# Supply-Chain-Project
 Analytics &amp; Demand Forecasting Project
